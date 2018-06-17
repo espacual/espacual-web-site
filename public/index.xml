@@ -59,21 +59,39 @@ de su disciplina de origen, trabaja bajo la presión generalizada de realizar un
 
 &lt;p&gt;El equipo de gestión se renueva cada 6 años. El equipo actual finaliza su mandado en el año 2022.&lt;/p&gt;
 
-&lt;p&gt;Presidente
-&lt;a href=&#34;Jordi.Lopez@uab.cat&#34; target=&#34;_blank&#34;&gt;Jordi López Sintas&lt;/a&gt;
-Universitat Autònoma de Barcelona&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Presidente&lt;/th&gt;
+&lt;th&gt;Vicepresienta&lt;/th&gt;
+&lt;th&gt;Secretaria&lt;/th&gt;
+&lt;th&gt;Tesorera&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;Vicepresidenta
-&lt;a href=&#34;Elena.Perez@cerhum.es&#34; target=&#34;_blank&#34;&gt;Elena Pérez Rubiales&lt;/a&gt;
-Museo de arte&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;http://espacual2.netlify.com/talk/jlopez.jpg&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;http://espacual2.netlify.com/talk/eperez.jpg&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;http://espacual2.netlify.com/talk/ccuesta.jpg&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;http://espacual2.netlify.com/talk/calarcon.jpg&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;Tesorera
-&lt;a href=&#34;ncarmenalarcon@gmail.com&#34; target=&#34;_blank&#34;&gt;Mari Carmen Alarcon&lt;/a&gt;
-Universidad de Murcia&lt;/p&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;Jordi.Lopez@uab.cat&#34; target=&#34;_blank&#34;&gt;Jordi López Sintas&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;Elena.Perez@cerhum.es&#34; target=&#34;_blank&#34;&gt;Elena Pérez Rubiales&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;ccuesta@ua.es&#34; target=&#34;_blank&#34;&gt;Carmen de la Cuesta Benjumea&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;ncarmenalarcon@gmail.com&#34; target=&#34;_blank&#34;&gt;Mari Carmen Alarcon&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;p&gt;Secretaria
-&lt;a href=&#34;ccuesta@ua.es&#34; target=&#34;_blank&#34;&gt;Carmen de la Cuesta Benjumea&lt;/a&gt;
-Universitat d&amp;rsquo;Alacant&lt;/p&gt;
+&lt;tr&gt;
+&lt;td&gt;Universitat Autònoma de Barcelona&lt;/td&gt;
+&lt;td&gt;Cerhum - UAB&lt;/td&gt;
+&lt;td&gt;Universitat d&amp;rsquo;Alacant&lt;/td&gt;
+&lt;td&gt;Universidad de Murcia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
@@ -120,28 +138,6 @@ Universitat d&amp;rsquo;Alacant&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;h2 id=&#34;presidenta&#34;&gt;Presidenta&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;mariaercilia.garcia@urv.cat&#34; target=&#34;_blank&#34;&gt;Ercilia García Álvarez&lt;/a&gt;
-Universitat Rovira i Virgili de Tarragona&lt;/p&gt;
-
-&lt;h2 id=&#34;vicepresidente&#34;&gt;Vicepresidente&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;Jordi.Lopez@uab.cat&#34; target=&#34;_blank&#34;&gt;Jordi López Sintas&lt;/a&gt;
-Universitat Autònoma de Barcelona&lt;/p&gt;
-
-&lt;h2 id=&#34;secretaria&#34;&gt;Secretaria&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;acluai@uoc.edu&#34; target=&#34;_blank&#34;&gt;Ana Clua Infante&lt;/a&gt;&lt;br /&gt;
-Universitat Oberta de Catalunya&lt;/p&gt;
-
-&lt;h2 id=&#34;tesorera&#34;&gt;Tesorera&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;mailto:nferranf@uoc.edu&#34; target=&#34;_blank&#34;&gt;Núria Ferran Ferrer&lt;/a&gt;
-Universitat Oberta de Catalunya&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://espacual2.netlify.com/talk/nferran.jpg&#34; alt=&#34;Núria Ferran&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
