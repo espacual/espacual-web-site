@@ -11,8 +11,8 @@ weight = 3
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
-  overlay_color = "#7f8cb4"  # An HTML color value.
-# overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+# overlay_color = "#7f8cb4"  # An HTML color value.
+ overlay_img = "headers/logo.png"  # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
