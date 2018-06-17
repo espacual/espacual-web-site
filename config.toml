@@ -278,15 +278,15 @@ defaultContentLanguageInSubdir = false
   url = "#posts"
   weight = 4
 
-#[[menu.main]]
-#  name = "Publicaciones"
-#  url = "#publications_selected"
-#  weight = 4
+[[menu.main]]
+  name = "Publicaciones"
+  url = "#publications_selected"
+  weight = 5
 
 [[menu.main]]
   name = "Formación"
   url = "#teaching"
-  weight = 5
+  weight =6
 
 [[menu.main]]
   name = "Contacto"
