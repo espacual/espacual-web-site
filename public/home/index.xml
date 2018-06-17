@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Publicaciones de Espacual seleccionadas</title>
+      <title>Publicaciones seleccionadas</title>
       <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>Publicaciones de Espacual</title>
+      <title>Publicaciones recientes</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       

@@ -38,3 +38,4 @@ weight = 5
 # Biografía
 
 Espacual nace en el año 2008 fruto de la colaboración de investigadores de diferentes áreas de conocimiento con el objeto de promover el uso de metodologías cualitativas, colaborar en la formación de jóvenes investigadores y difudir los resultados de las investigaciones cualitativas. 
+

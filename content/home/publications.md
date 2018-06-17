@@ -5,8 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20
 
-title = "Publicaciones de Espacual"
-subtitle = ""
+title = "Publicaciones recientes"
 
 # Order that this section will appear in.
 weight = 20
