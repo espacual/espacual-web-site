@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Espacual</title>
+    <link>/sobrenosotros/</link>
+    <description>Recent content in Posts on Espacual</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - Espacual</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/sobrenosotros/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>/sobrenosotros/equipo2017-22/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/sobrenosotros/equipo2017-22/</guid>
+      <description>Equipo de gestión actual El equipo de gestión se renueva cada 6 años. El equipo actual finaliza su mandado en el año 2022.
+Presidente Jordi López Sintas Universitat Autònoma de Barcelona
+Vicepresidenta Elena Pérez Rubiales Museo de arte
+Tesorera Mari Carmen Alarcon Universidad de Murcia
+Secretaria Carmen de la Cuesta Benjumea Universitat d&amp;rsquo;Alacant</description>
+    </item>
+    
+  </channel>
+</rss>

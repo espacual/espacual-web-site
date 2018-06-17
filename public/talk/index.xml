@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sobre Espacual on Espacual</title>
+    <link>/talk/</link>
+    <description>Recent content in Sobre Espacual on Espacual</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 - Espacual</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El origen de Espacual</title>
+      <link>/talk/origen-espacual/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/origen-espacual/</guid>
+      <description>La Asociación Espacual Espacual se funda para crear un espacio interdisciplinario para: 1) fomentar los avances metodológicos en la investigación cualitativa, 2) facilitar la difusión de los resultados de la investigación y de los avances metodológicos, 3) incrementar la colaboración entre investigadores de diferentes discisplinas pero relacionados por las metodologías de investigación cualitativa que utilizan para analizar susdatos, 4) crear un espacio de discusión y difusión de los criterios de calidad de la investigación cualitativa, y 5) ejercer de lobby académico en pro de la investigación cualitativa.</description>
+    </item>
+    
+    <item>
+      <title>Equipo de gestión actual (2017-2022)</title>
+      <link>/talk/equipo2017-22/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/equipo2017-22/</guid>
+      <description>Equipo de gestión actual El equipo de gestión se renueva cada 6 años. El equipo actual finaliza su mandado en el año 2022.
+Presidente Jordi López Sintas Universitat Autònoma de Barcelona
+Vicepresidenta Elena Pérez Rubiales Museo de arte
+Tesorera Mari Carmen Alarcon Universidad de Murcia
+Secretaria Carmen de la Cuesta Benjumea Universitat d&amp;rsquo;Alacant</description>
+    </item>
+    
+    <item>
+      <title>Equipo de gestión fundador (2008-2016)</title>
+      <link>/talk/equipo2008-16/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/equipo2008-16/</guid>
+      <description>Equipo fundador Presidenta Ercilia García Álvarez Universitat Rovira i Virgili de Tarragona
+Vicepresidente Jordi López Sintas Universitat Autònoma de Barcelona
+Secretaria Ana Clua Infante
+Universitat Oberta de Catalunya
+Tesorera Núria Ferran Ferrer Universitat Oberta de Catalunya</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/talk/equipo2008-16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/equipo2008-16/</guid>
+      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+  </channel>
+</rss>
