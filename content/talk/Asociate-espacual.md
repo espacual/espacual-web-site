@@ -18,10 +18,10 @@ selected = false
 # projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+#url_pdf = ""
+#url_slides = ""
+#url_video = ""
+#url_code = ""
 
 # Does the content use math formatting?
 math = true
