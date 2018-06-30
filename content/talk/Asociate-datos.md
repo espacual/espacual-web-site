@@ -47,7 +47,7 @@ Las cuotas de l@s soci@s financian las actividades de la asociación y ofrecen a
 
 # Datos personales para el alta en la asociación
 
-<form name="alta" method="POST" action="/content/talk/Asociate-espacual.html" netlify>
+<form name="alta" method="POST" netlify>
   <p>
     <label>Nombre: <input type="text" name="nombre" /></label>   
   </p>
