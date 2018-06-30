@@ -7,13 +7,13 @@ highlight = false
 # List format.
 #   0 = Simple
 #   1 = Detailed
-list_format = 1
+list_format = 0
 
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/logo.png"
-caption = ""
+caption = "Espacual"
 +++
 
 Espacual nace en 2008 fruto de la colaboración de investigadores de diferentes áreas de conocimiento con el objeto de promover el uso de metodologías cualitativas, colaborar en la formación de jóvenes investigadores y difundir los resultados de las investigaciones cualitativas.
