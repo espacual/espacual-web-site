@@ -46,6 +46,43 @@ Las cuotas de l@s soci@s financian las actividades de la asociación y ofrecen a
 
 # Alta en la asociación
 
+## Datos personales para el alta en la asociación
+
+<form name="alta" method="POST" netlify>
+  <p>
+    <label>Nombre: <input type="text" name="nombre" /></label>   
+  </p>
+  <p>
+    <label>Apellidos: <input type="text" name="apellidos" /></label>   
+  </p>
+  <p>
+    <label> Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label> Dirección: <input type="text" name="direccion" /></label>   
+  </p>  
+  <p>
+    <label> Población: <input type="text" name="poblacion" /></label>   
+  </p>  
+  <p>
+    <label> Código postal: <input type="text" name="cp" /></label>   
+  </p>
+  <p>
+    <label> Socio: <select name="role[]" multiple>
+      <option value="Socio ordinario">ordinario</option>
+      <option value="Socio estudiante">estudiante</option>
+    </select></label>
+  </p>
+  <p>
+    <label> Universidad: <input type="text" name="universidad" /></label>   
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+
+## Ingreso de las cuotas de socio
+
 Las cuotas se renuevan anualmente y los estudiantes tienen bonificado el 50% de la cuota de asociación.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
