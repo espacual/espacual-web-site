@@ -17,7 +17,7 @@ weight = 60
 
 Espacual nace en 2008 fruto de la colaboración de investigadores de diferentes áreas de conocimiento con el objeto de promover el uso de metodologías cualitativas, colaborar en la formación de jóvenes investigadores y difundir los resultados de las investigaciones cualitativas.
 
-Para asociarte a espacual primero debes solicitar tu admisión rellenando el siguiente impreso en línea: [rellenar solicitud de admisión](https://docs.google.com/forms/d/e/1FAIpQLSe5udzvKiKeoLklSMnAgCfdEbeGs4kgbAwEemU3xpdBNDsEsQ/viewform)
+Para asociarte a espacual primero debes solicitar tu admisión rellenando el siguiente impreso en línea: [rellenar solicitud de admisión]
 
 Posteriormente puedes ir a la página donde se realiza el ingreso de las cuotas de los socios: cuotas de los socios
 
