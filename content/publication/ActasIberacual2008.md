@@ -31,7 +31,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = [2018-02-01-Iberacual]
+projects = [Iberacual]
 
 # Links (optional).
 url_pdf = "http://dx.doi.org/10.1080/13676261.2016.1206863"
