@@ -11,12 +11,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Young people’s leisure patterns: testing social age, social gender, and linguistic capital hypotheses</title>
-      <link>/publication/2018-01-31-my-first-paper/</link>
-      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Actas de la Conferencia Iberoamericana de Investigación Cualitativa</title>
+      <link>/publication/actasiberacual2008/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-01-31-my-first-paper/</guid>
-      <description>&lt;p&gt;We analysed young people’s leisure activities in order to identify their leisure habitus, discover how they combined activities into leisure patterns, and examine how leisure patterns were socially structured. We argue that the effects of age, gender, and language on how young people’s leisure patterns are structured are mediated by social class. We found that leisure practices could be classified in terms of three habitus: the frequent leisure habitus, the cultural activity habitus, and the social vs. entertainment habitus. The different combinations of these three leisure habitus by young people resulted in four patterns which we refer to as social, omnivorous, entertainment, and religious leisure patterns. The association of leisure patterns with indicators of social position suggests that, as predicted by our theoretical framework, age, gender, and language effects are diminished once we take into account the mediating role of social class. Young people’s leisure practices are therefore socially differentiated, with young immigrants forming a vulnerable group that should be the particular focus of youth leisure policies.&lt;/p&gt;
+      <guid>/publication/actasiberacual2008/</guid>
+      <description>&lt;p&gt;Cada dos años organizamos la conferencia Iberacual con el propósito de reunir a investigadores de diferentes áreas de conocimiento que utilizan similares o diferentes metodologías cualitativas.&lt;/p&gt;
+
+&lt;p&gt;Se han realizado dos conferencias. La primera en 2008 en la Universitat Autònoma de Barcelona. La segunda en el 2010 en la Universidad de Granada (ver la publicación de las actas de los congresos). Con la crisis financiera global de 2008, cuyo impacto en España se siente particularmente a partir del 2010, se han reducido los fondos de investigación y hemos suspendido temporalmente la realización de la conferencia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Actas de la Conferencia Iberoamericana de Investigación Cualitativa, vol 2</title>
+      <link>/publication/actasiberacual2011/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/actasiberacual2011/</guid>
+      <description>&lt;p&gt;Cada dos años organizamos la conferencia Iberacual con el propósito de reunir a investigadores de diferentes áreas de conocimiento que utilizan similares o diferentes metodologías cualitativas.&lt;/p&gt;
+
+&lt;p&gt;Se han realizado dos conferencias. La primera en 2008 en la Universitat Autònoma de Barcelona. La segunda en el 2010 en la Universidad de Granada (ver la publicación de las actas de los congresos). Con la crisis financiera global de 2008, cuyo impacto en España se siente particularmente a partir del 2010, se han reducido los fondos de investigación y hemos suspendido temporalmente la realización de la conferencia.&lt;/p&gt;
 </description>
     </item>
     
@@ -223,10 +237,10 @@ de su disciplina de origen, trabaja bajo la presión generalizada de realizar un
     
     <item>
       <title>Conferencia Iberacual</title>
-      <link>/project/2018-02-01-iberacual/</link>
+      <link>/project/iberacual/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/2018-02-01-iberacual/</guid>
+      <guid>/project/iberacual/</guid>
       <description>&lt;p&gt;Cada dos años organizamos la conferencia Iberacual con el propósito de reunir a investigadores de diferentes áreas de conocimiento que utilizan similares o diferentes metodologías cualitativas.&lt;/p&gt;
 
 &lt;p&gt;Se han realizado dos conferencias. La primera en 2008 en la Universitat Autònoma de Barcelona. La segunda en el 2010 en la Universidad de Granada (ver la publicación de las actas de los congresos). Con la crisis financiera global de 2008, cuyo impacto en España se siente particularmente a partir del 2010, se han reducido los fondos de investigación y hemos suspendido temporalmente la realización de la conferencia.&lt;/p&gt;
@@ -237,10 +251,10 @@ de su disciplina de origen, trabaja bajo la presión generalizada de realizar un
     
     <item>
       <title>Escuela de verano</title>
-      <link>/project/2018-06-06-escuela-verano/</link>
+      <link>/project/escuela-verano/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/2018-06-06-escuela-verano/</guid>
+      <guid>/project/escuela-verano/</guid>
       <description>&lt;p&gt;Para promover la formación de jóvenes investigadores, Espacual promueve y organiza la Escuela de Verano de Investigación Cualitativa y realiza acuerdos con promotores de seminarios de formación para que sus asociados puedan distrutar de un precio reducido.&lt;/p&gt;
 
 &lt;p&gt;Cada año Espacual organiza la Escuela de Verano de Investigación Cualitativa. En el año 2017 tuvo lugar la primera &lt;a href=&#34;https://escuela-verano.netlify.com/&#34; target=&#34;_blank&#34;&gt;escuela de verano de espacual&lt;/a&gt;.&lt;/p&gt;
@@ -251,10 +265,10 @@ de su disciplina de origen, trabaja bajo la presión generalizada de realizar un
     
     <item>
       <title>Publicaciones</title>
-      <link>/project/2018-06-06-publicaciones/</link>
+      <link>/project/publicaciones/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/2018-06-06-publicaciones/</guid>
+      <guid>/project/publicaciones/</guid>
       <description>&lt;p&gt;Con el objeto de facilitar la formación de investigadores cualitativos, Espacual promoverá la publicación de manuales de investigación en las lenguas oficiales de nuestro país. Concretamente vamos a promover la publicación de tres colecciones:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -279,10 +293,10 @@ de su disciplina de origen, trabaja bajo la presión generalizada de realizar un
     
     <item>
       <title>Workshop Espacual</title>
-      <link>/project/2018-02-01-workshop/</link>
+      <link>/project/workshop/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/2018-02-01-workshop/</guid>
+      <guid>/project/workshop/</guid>
       <description>&lt;p&gt;Cada año organizamos el workshop Espacual de investigación cualitativa. Es un taller de pequeño formato de un día de duración donde presentar investigaciones en desarrollo por invitación. Su propósito es fortalecer la relación entre investigadores de diferentes disciplinas que trabajan sobre temas o metodologías cualitativas similares. El resultado del workshop puede ser una publicación en formato libro o en formato número especial en una revista internacional.&lt;/p&gt;
 </description>
     </item>
