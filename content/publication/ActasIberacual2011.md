@@ -1,6 +1,6 @@
 +++
 title = "Actas de la Conferencia Iberoamericana de Investigación Cualitativa, vol 2"
-date = '2011'
+date = '2018-02-01'
 # Authors. Comma separated list, e.g. `["Jordi López", "XXX"]`.
 authors = ["E. García", "J. López"]
 
