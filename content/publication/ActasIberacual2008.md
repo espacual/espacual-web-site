@@ -46,7 +46,7 @@ url_slides = "https://www.dropbox.com/s/ylk9t54d1tzwy54/iberacual2008-web.pdf?dl
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = false
@@ -58,6 +58,7 @@ highlight = false
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 #image = "headers/bubbles-wide.jpg"
+image = "Actas-Iberacual-2008-vol-I-portada"
 caption = "My caption: smile to live:"
 +++
 
