@@ -58,8 +58,8 @@ highlight = false
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 #image = "headers/bubbles-wide.jpg"
-image = "publications.jpg"
-#image = "Actas-Iberacual-2008-vol-I-portada.png"
+#image = "publications.jpg"
+image = "actas-iberacual-2008.jpg"
 caption = "My caption: smile to live:"
 +++
 
