@@ -34,12 +34,12 @@ selected = true
 projects = ["Iberacual"]
 
 # Links (optional).
-url_pdf = "http://dx.doi.org/10.1080/13676261.2016.1206863"
+url_pdf = "https://www.dropbox.com/s/v4yttl6noh2os1c/Actas_Iberacual_2008-vol-I.pdf?dl=0"
 #url_preprint = "http://dx.doi.org/10.1080/13676261.2016.1206863"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-#url_slides = "#"
+url_slides = "https://www.dropbox.com/s/ylk9t54d1tzwy54/iberacual2008-web.pdf?dl=0"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"

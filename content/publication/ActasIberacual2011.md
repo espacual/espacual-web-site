@@ -2,7 +2,7 @@
 title = "Actas de la Conferencia Iberoamericana de Investigación Cualitativa, vol 2"
 date = '2018-02-01'
 # Authors. Comma separated list, e.g. `["Jordi López", "XXX"]`.
-authors = ["E. García", "J. López"]
+authors = ["J. Andreu Abela", "Ana M. Pérez Corbacho"]
 
 # Publication type.
 # Legend: 5
@@ -34,7 +34,7 @@ selected = true
 projects = ["Iberacual"]
 
 # Links (optional).
-url_pdf = "http://dx.doi.org/10.1080/13676261.2016.1206863"
+url_pdf = "https://www.dropbox.com/s/84s84hfkedo24wc/Actas_Iberacual_2011-vol-2.pdf?dl=0"
 #url_preprint = "http://dx.doi.org/10.1080/13676261.2016.1206863"
 #url_code = "#"
 #url_dataset = "#"
