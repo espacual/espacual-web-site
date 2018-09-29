@@ -26,7 +26,7 @@ abstract = "Actas de la conferencia Iberoamericana celebrada en Bellaterra, 2008
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
