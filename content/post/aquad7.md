@@ -9,7 +9,7 @@ tags = ["open access"]
 summary = "El programa AQUAD 7 (software sin gastos, libre según las disposiciones del GNU GPL) permite analizar datos cualitativos."
 
 [header]
-image = "headers/gafas.jpg"
+image = "headers/aquad7.jpg"
 caption = "Image credit: [**AQUAD 7**](http://www.aquad.de/es/)"
 
 #[[gallery_item]]
@@ -21,7 +21,7 @@ caption = "Image credit: [**AQUAD 7**](http://www.aquad.de/es/)"
 +++
 
 **AQUAD 7** 
-El programa AQUAD 7 (software sin gastos, libre según las disposiciones del GNU GPL) permite analizar datos cualitativos
+El programa [**AQUAD 7**](http://www.aquad.de/es/) (software sin gastos, libre según las disposiciones del GNU GPL) permite analizar datos cualitativos
 
  según el enfoque del paradigma de codificación,
  según el método de minimalización Booleana para identificar tipos y
