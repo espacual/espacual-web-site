@@ -22,7 +22,7 @@ caption = "Image credit: [**TAMS Analyzer**](http://tamsys.sourceforge.net/)"
 
 **TAMS Analyzer** 
 
-TAMS Analyzer es un programa basado en TAMS que te permite asignar codígos etnográficos a segmentos de texto simplemente seleccionado el texto relevante y después el código adecuado. Posteriormente puedes seleccionar, analzar y guardar la información codificada. TAMS Analyzer es un programa de código abierto. Está disponbile bajo la licencia  GPL v2. La versión Macintosh también incluye soporte para la transcripción cuando trabajas con con datos de audio.
+[**TAMS Analyzer**](http://tamsys.sourceforge.net/) es un programa basado en TAMS que te permite asignar codígos etnográficos a segmentos de texto simplemente seleccionado el texto relevante y después el código adecuado. Posteriormente puedes seleccionar, analzar y guardar la información codificada. TAMS Analyzer es un programa de código abierto. Está disponbile bajo la licencia  GPL v2. La versión Macintosh también incluye soporte para la transcripción cuando trabajas con con datos de audio.
 
 TAMS está en [**Facebook**](https://www.facebook.com/TAMS-Analyzer-172172999506418/). El autor utiliza la página de FaceBook como un blog para informar a sus usuarios de los progresos técnicos del programa. La neuva versión TAMS5 simplifica el trabajo en equipo de la versión multiusuario.
 

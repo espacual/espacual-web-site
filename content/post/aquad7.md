@@ -21,6 +21,7 @@ caption = "Image credit: [**AQUAD 7**](http://www.aquad.de/es/)"
 +++
 
 **AQUAD 7** 
+
 El programa [**AQUAD 7**](http://www.aquad.de/es/) (software sin gastos, libre según las disposiciones del GNU GPL) permite analizar datos cualitativos
 
  según el enfoque del paradigma de codificación,
