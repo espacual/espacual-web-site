@@ -6,7 +6,7 @@ lastmod = 2018-01-13
 draft = false
 
 tags = ["open access", "software"]
-summary = "RDQA es un programa de código abierto (licencia BSD que funciona tanto en Linus Mac OSX como Windows. Primero es necesario instalar el entorno R y después el paquete RQDA. El autor proporciona instrucciones completas para los tres sistema operaticos.
+summary = "RDQA es un programa de código abierto (licencia BSD que funciona tanto en Linus Mac OSX como Windows. Primero es necesario instalar el entorno R y después el paquete RQDA. El autor proporciona instrucciones completas para los tres sistema operaticos."
 
 [header]
 image = "headers/rqda.jpg"
